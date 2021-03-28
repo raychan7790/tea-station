@@ -156,7 +156,7 @@ Animation
 }
 @keyframes slideFromRight {
   0% {
-    transform: translateX(1000px);
+    transform: translateX(100px);
     opacity: 0;
   }
   50% {
